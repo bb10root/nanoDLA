@@ -58,7 +58,12 @@ After signals are sampled, you can use decoder to decode them. Let’s take UART
 
 
 # How To Buy
-you can buy nanoDLA from our offcial aliexpress shop [nanoDLA-USB-A](https://www.aliexpress.com/item/1005001408354651.html?gps-id=pcStoreJustForYou&scm=1007.23125.137358.0&scm_id=1007.23125.137358.0&scm-url=1007.23125.137358.0&pvid=7b71e32d-e210-44b9-b1c6-ba3cb9251c32&spm=a2g0o.store_pc_home.smartJustForYou_1285899617.15) and [nanoDLA-USB-C](https://www.aliexpress.com/item/1005002511491492.html?spm=a2g0o.store_pc_groupList.8148356.7.429063114nbs4o)
+## Aliexpress Shop 
+[nanoDLA-USB-A](https://www.aliexpress.com/item/1005001408354651.html?gps-id=pcStoreJustForYou&scm=1007.23125.137358.0&scm_id=1007.23125.137358.0&scm-url=1007.23125.137358.0&pvid=7b71e32d-e210-44b9-b1c6-ba3cb9251c32&spm=a2g0o.store_pc_home.smartJustForYou_1285899617.15)   
+[nanoDLA-USB-C](https://www.aliexpress.com/item/1005002511491492.html?spm=a2g0o.store_pc_groupList.8148356.7.429063114nbs4o)
+## Tindie Shop
+[nanoDLA-USB-A](https://www.tindie.com/products/johnnywu/nanodla-logic-analyzer/)  
+[nanoDLA-USB-C](https://www.tindie.com/products/johnnywu/type-c-nanodla-logic-analyzer/)
 
 
 # FAQ
